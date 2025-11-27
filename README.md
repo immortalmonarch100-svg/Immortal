@@ -31,7 +31,8 @@
 
 ###
 
-<p align="left">## ⚡ Immortal Sir<br><br>> System Booting...  <br>> Identity: Immortal Sir  <br>> Status: Online ⚙️  <br>> Function: Creating the Future in Code  <br><br>💻 Architecting full-stack systems  <br>🧬 Engineering AI that thinks  <br>📱 Crafting apps that breathe  <br>🌌 Living inside logic, powered by caffeine & chaos  <br><br>`#CodeIsImmortal`</p>
+<p align="left">## ⚡ Immortal Sir<br><br>> System Booting...  <br>> Identity: Immortal Sir  <br>> Status: Online ⚙️  <br>> Function: Creating the Future in Code  <br><br>💻 Architecting full-stack systems  <br>🧬 Engineering AI that thinks  <br>📱 Crafting apps that breathe  <br>🌌 Living inside logic
+  <br><br>`#CodeIsImmortal`</p>
 
 ###
 
